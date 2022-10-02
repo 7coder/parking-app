@@ -1,0 +1,6 @@
+[submodule "parking-app-ui"]
+	path = parking-app-ui
+	url = git@github.com:7coder/parking-app-ui.git
+[submodule "parking-app-api"]
+	path = parking-app-api
+	url = git@github.com:7coder/parking-app-api.git
