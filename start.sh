@@ -1,7 +1,7 @@
 #!/bin/bash
 
-ENV_DIRECTORY = "./env"
-DIST_DIRECTORY = "./dist"
+ENV_DIRECTORY="./env"
+DIST_DIRECTORY="./dist"
 
 if ! command -v node &> /dev/null
 then
