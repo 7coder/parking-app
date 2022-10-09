@@ -42,7 +42,7 @@ fi
 source ./env/bin/activate
 
 echo "Install Python packages..."
-pip install -r requrements.txt
+pip install -r requirements.txt
 
 echo "Run application on Port 5000..."
 python3 app.py
